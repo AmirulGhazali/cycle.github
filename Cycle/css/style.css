@@ -680,60 +680,6 @@ clip-path: polygon(0 0, 75% 8%, 75% 80%, 0% 100%);
     position: relative;
     margin-top: 60px;
 
-} .image_5{ width: 40%; margin: 0 auto; text-align: center; padding-top:
-100px; position: relative; z-index: 1; } 
-
-.about_main::before {
-
-    content: '';
-    position: absolute;
-    width: 400px;
-    right: 0px;
-    top: 67px;
-    margin: 0 auto;
-    display: flex;
-    height: 355px;
-    left: -180px;
-    box-shadow: 0 35px 25px -20px 
-
-    rgba(0,0,0,0.2);
-    transform: rotate(-13deg) skewx(-1.2deg);
-
-}
-
-.about_main::after {
-
-    content: '';
-    background-color: 
-
-#ffffff;
-
-position: absolute;
-
-width: 500px;
-
-right: 0px;
-
-top: 30px;
-
-margin: 0 auto;
-
-display: flex;
-
-height: 440px;
-
-left: 0;
-
-clip-path: polygon(0 0px, 80% 3%, 80% 78%, 0% 100%);
-
--webkit-box-shadow: 0px 8px 7px 3px rgba(0,0,0,0.31);
-
--moz-box-shadow: 0px 8px 7px 3px rgba(0,0,0,0.31);
-
-box-shadow: 0px 8px 7px 3px
-
-    rgba(0,0,0,0.31);
-
 }
 
 .read_bt_1{
